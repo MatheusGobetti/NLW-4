@@ -1,5 +1,5 @@
 # NLW 4 - Breathe In
-Projeto realizado durante a semana Next Level Week, orientado pelo professor Diego Fernandes, da Rocketseat
+Projeto realizado durante a semana Next Level Week, orientado pelo professor Diego Fernandes, da Rocketseat. Trata-se de um web-app de Pomodoro para desenvolvedores
 
 ### Tecnologias Utilizadas: ReactJs, NextJs, Typescript
 
